@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RenderOpGL", "RenderOpGL\RenderOpGL.pyproj", "{39942C8C-670A-403C-BC3F-00B0AADA3D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39942C8C-670A-403C-BC3F-00B0AADA3D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39942C8C-670A-403C-BC3F-00B0AADA3D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6605D523-35C3-4F06-A180-E1A2BDF05465}
+	EndGlobalSection
+EndGlobal
